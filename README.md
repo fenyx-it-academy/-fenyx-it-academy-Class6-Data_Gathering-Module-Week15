@@ -30,3 +30,5 @@
 
 - Exit : Kulanicinin cikisi saglanmalidir.
 
+### Kolay Gelsin :)
+
